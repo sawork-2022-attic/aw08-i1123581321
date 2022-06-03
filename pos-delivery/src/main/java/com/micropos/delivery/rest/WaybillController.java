@@ -2,7 +2,7 @@ package com.micropos.delivery.rest;
 
 import com.micropos.api.WaybillsApi;
 import com.micropos.delivery.mapper.WaybillMapper;
-import com.micropos.delivery.repository.repository.WaybillRepository;
+import com.micropos.delivery.repository.WaybillRepository;
 import com.micropos.dto.WaybillDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.util.Streamable;

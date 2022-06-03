@@ -1,4 +1,4 @@
-package com.micropos.delivery.repository.repository;
+package com.micropos.delivery.repository;
 
 import com.micropos.delivery.model.Waybill;
 import org.springframework.data.repository.CrudRepository;
